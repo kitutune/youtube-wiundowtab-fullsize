@@ -13,7 +13,7 @@
 *  Chrome拡張機能（chrome-extension）
  
 # Installation
- 
+ [next.js+tailwindcss](https://tailwindcss.com/docs/guides/nextjs)
 ・・・
  
 # Usage

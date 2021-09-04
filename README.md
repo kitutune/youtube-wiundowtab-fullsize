@@ -1,4 +1,5 @@
 # 現在windows環境で意図しないページが表示されるようです
+修正しました
 
 # youtube-wiundowtab-fullsize
 

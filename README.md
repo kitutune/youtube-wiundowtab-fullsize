@@ -1,6 +1,6 @@
 # youtube-wiundowtab-fullsize
 
-グーグル拡張機能を使用したアプリになります
+Google拡張機能を使用したアプリになります
 YouTubeのページを表示した状態で拡張機能のボタンを押すと
 ウインドウサイズ目一杯までYoutubeの画面サイズを広げて利用できます
 youtube動画で学習する際に画面が思うようにいかなかったのでctiさんの協力のもと作成しました
@@ -34,7 +34,9 @@ YoutubeFullSizeWindow!!.zipを解凍すると中にreadmeがありますので�
 本アプリはGoogleの拡張機能から使用することを前提にしています
 拡張機能は[こちらから](https://import-youtube-fullsize.vercel.app/YoutubeFullSizeWindow.zip)ダウンロードすることも可能です
 アプリ内デフォルトページ下部にもダウンロードリンクがあります（デフォルトページ外では表示されません）
-拡張機能追加後にyoutube表示しこちらのボタンを押せばウインドウモードでyoutubeがフルサイズで表示されます
+拡張機能追加後にyoutubeを表示し画像の矢印にあるアイコンを押せばウインドウモードでyoutubeがフルサイズで表示されます
+
+
  <img width="203" alt="ボタン" src="https://user-images.githubusercontent.com/79749395/132093941-f55881ff-6771-4fdc-99e8-587cd1db4e41.png">
 # Note
  

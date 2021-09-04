@@ -13,7 +13,7 @@ export default function Home() {
           allowfullscreen
         ></iframe>
       </div>
-      <div className="border-8 text-xs  md:text-4xl lg:text-6xl">
+      <div className="border-8 text-2xl ">
         <a
           href="YoutubeFullSizeWindow.zip"
           download="YoutubeFullSizeWindow.zip"

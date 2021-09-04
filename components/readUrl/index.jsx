@@ -22,20 +22,7 @@ export const ReadUrl = () => {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               ></iframe>
             </div>
-            {!id ? (
-              <div className="border-8　 text-2xl bg-gray-800 text-center">
-                <a
-                  href="YoutubeFullSizeWindow.zip"
-                  download="YoutubeFullSizeWindow.zip"
-                >
-                  <p className="pt-1 text-yellow-50 hover:text-yellow-300">
-                    DL Google Extensions（Unzip required）
-                  </p>
-                </a>
-              </div>
-            ) : null}
-          </>
-        )}
+        <DlLink id={id} />
       </div>
     </>
   );

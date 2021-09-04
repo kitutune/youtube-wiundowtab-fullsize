@@ -4,7 +4,7 @@ function openApp() {
   url = ~url.indexOf('&') ? url.slice(0, url.indexOf('&')) : url;
   if (~url.indexOf(keyword)) {
     window.open(
-      url.replace(keyword, 'https://import-youtube-fullsize.vercel.app/')
+      url.replace(keyword, 'https://import-youtube-fullsize.vercel.app/movies/')
     );
   }
 }

@@ -1,4 +1,5 @@
 {
+  "name": "y-project",
   "private": true,
   "scripts": {
     "dev": "next dev",

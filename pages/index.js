@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="flex justify-center items-center content-center h-screen bg-gray-300 ">
+    <div className="flex flex-col  justify-center items-center content-center h-screen bg-gray-300 ">
       <div className="relative pt-56.25% w-full ">
         <iframe
           className="absolute top-0 left-0 w-full h-full "

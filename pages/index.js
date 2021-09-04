@@ -1,4 +1,4 @@
-import { ReadUrl } from '../components/readUrl';
+import { ReadUrl } from 'components/readUrl';
 
 export default function Home() {
   return (

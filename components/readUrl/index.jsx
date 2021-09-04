@@ -1,5 +1,5 @@
+import { DlLink } from 'components/dlLink';
 import { useRouter } from 'next/dist/client/router';
-import { DlLink } from '../dlLink';
 
 export const ReadUrl = () => {
   const router = useRouter();

@@ -1,0 +1,13 @@
+{
+  "name": "YoutubeFullSizeWindow!!",
+  "manifest_version": 3,
+  "version": "0.2.0",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "openApp.js"
+  },
+  "action": {},
+  "icons": {
+    "16": "/images/youtube.png"
+  }
+}

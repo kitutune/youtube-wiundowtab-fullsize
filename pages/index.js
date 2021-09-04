@@ -6,7 +6,7 @@ export default function Home() {
           className="absolute top-0 left-0 w-full h-full "
           width="1900"
           height="1900"
-          src="https://www.youtube.com/embed/9ZnKR7QPu_E"
+          src="https://www.youtube.com/embed/4lfQXyv734E"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

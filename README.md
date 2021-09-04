@@ -1,3 +1,5 @@
+# 現在windows環境で意図しないページが表示されるようです
+
 # youtube-wiundowtab-fullsize
 
 Google拡張機能を使用したアプリになります

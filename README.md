@@ -1,6 +1,10 @@
+#　ただいま更新中
 
+# import-youtube-fullsize
 
-# 名称未設定
+グーグル拡張機能を使用したアプリになります
+YouTubeのページを表示した状態で拡張機能のボタンを押すと
+ウインドウサイズ目一杯までYoutubeの画面サイズを広げて利用できます
 
 # Features
  
@@ -13,26 +17,26 @@
 *  Chrome拡張機能（chrome-extension）
  
 # Installation
- [next.js+tailwindcss](https://tailwindcss.com/docs/guides/nextjs)
-・・・
+ ~~~zsh
+ git clone https://github.com/kitutune/import-youtube-fullsize.git
+ cd import-youtube-fullsize.git
+ yarn
+ yarn dev
+ ~~~
+で、デフォルトのApp画面が開きます（ローカル環境で実行可能）
+import-youtube-fullsizeファイルの中にある
+YoutubeFullSizeWindow!!.zipを解凍すると中にreadmeがありますのでそちらを参考にお使いください
  
-# Usage
- 
-・・・
- 
-# Note
- 
-・・・
  
 # Author
  
 作成情報を列挙する
  
-* 作成者　kitutune
+* 作成者　kitutune　＋　Cti
 * 所属 無
 
  
 # License
-未設定
+MITライセンス
 
 
